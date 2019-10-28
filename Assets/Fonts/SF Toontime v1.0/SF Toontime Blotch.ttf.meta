@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b494cd81eac1fd84490d47a503ea4a31
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Toontime Blotch
+  fontNames:
+  - SF Toontime Blotch
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 22bdd667182a9984b981d23ff2c1745b, type: 3}
+  - {fileID: 12800000, guid: 9d8796cad8ffc4443b47daf32ff28013, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

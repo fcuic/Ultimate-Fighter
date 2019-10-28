@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a47c6401752d73e43b6a34f3f2975ef1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Toontime Shaded
+  fontNames:
+  - SF Toontime Shaded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 722834e7599e2694d952ad3fb6803760, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
